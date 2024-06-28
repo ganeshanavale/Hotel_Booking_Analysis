@@ -35,21 +35,27 @@ Hypothesis
 Analysis and Findings
 
 Analysis 1: Reservation Cancellation Rates
+
 The bar graph illustrates a significant cancellation rate, with 37% of bookings canceled, impacting hotel revenue. Resort hotels show lower booking numbers, possibly due to higher pricing.
 
 Analysis 2: Average Daily Rates
+
 The line graph depicts fluctuating average daily rates between city and resort hotels, influenced by weekdays, weekends, and holidays.
 
 Analysis 3: Monthly Reservation Patterns
+
 A grouped bar graph shows reservation counts by month, highlighting August with the highest overall reservations and January with the highest cancellations.
 
 Analysis 4: Price and Cancellations
+
 A bar graph indicates a correlation between higher prices and increased cancellations, suggesting pricing influences cancellation rates.
 
 Analysis 5: Cancellations by Country
+
 The pie chart identifies Portugal as the country with the highest number of reservation cancellations.
 
 Analysis 6: Booking Sources
+
 The table details booking sources, indicating online travel agencies contribute 47%, groups contribute 27%, and direct bookings comprise 4% of total reservations.
 
 Suggestions
