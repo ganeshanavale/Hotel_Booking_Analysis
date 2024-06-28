@@ -7,21 +7,29 @@ In recent years, both City Hotel and Resort Hotel have experienced high cancella
 Assumptions
 
 •	Unusual events occurring between 2015 and 2017 do not significantly affect the data.
+
 •	The dataset is current and relevant, ensuring efficient analysis.
+
 •	Anticipated negative consequences of implementing suggested techniques are minimal.
+
 •	The hotels are not currently utilizing the proposed solutions.
+
 •	Booking cancellations have a substantial impact on revenue generation.
 
 Research Questions
 
 What are the key factors that influence hotel reservation cancellations?
+
 What strategies can be implemented to minimize hotel reservation cancellations?
+
 How can hotels utilize data insights to make informed pricing and promotional decisions?
 
 Hypothesis
 
 •  Higher prices are positively correlated with increased cancellation rates.
+
 •  Longer waiting lists are associated with higher frequencies of cancellations.
+
 •  Offline travel agents contribute more to reservations compared to online channels.
 
 Analysis and Findings
@@ -47,8 +55,11 @@ The table details booking sources, indicating online travel agencies contribute 
 Suggestions
 
 •  Implement dynamic pricing strategies to mitigate cancellations caused by high prices.
+
 •  Offer weekend and holiday discounts specifically for resort hotels to boost occupancy rates.
+
 •  Launch targeted marketing campaigns in January to counteract the peak in cancellation rates during this month.
+
 •  Improve hotel quality and services in Portugal to reduce cancellation rates originating from this country.
 
 
